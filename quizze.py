@@ -1,7 +1,7 @@
 import random
 import os
 
-questions_dict = {   # The first answer choice is the correct answer
+questions_dict = {   # The first answer choice is the correct answer (it will get randomized when displayed to the user)
     """What is the output of the following code?\n
 int x = 5;
 x += 3;
