@@ -364,4 +364,4 @@ for x in range(20):
     except KeyError:
         print(f"The answer is {answer}")
     print()
-    input("Press any button to continue")
+    input("Press enter to continue")
