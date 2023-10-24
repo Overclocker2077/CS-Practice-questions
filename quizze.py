@@ -335,7 +335,7 @@ Consider the goal of modifying the code segment to count the number of squares t
 
 
 
-# Questions rang up to Prep homework 5 25% of the question are made by ChatGPT
+# Questions rang up to Prep homework 5, 25% of the question are made by ChatGPT
 }
 
 def correct_anwser(answers):
